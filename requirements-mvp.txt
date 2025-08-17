@@ -1,0 +1,3 @@
+# Minimal requirements for Mind Gym MVP
+anthropic>=0.18.0  # For Claude API (optional - will work without)
+python-dotenv>=1.0.0  # For loading .env file
